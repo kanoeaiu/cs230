@@ -1,0 +1,12 @@
+boto3
+os
+import soundfile as sf
+cv2
+numpy
+tensorflow
+torch
+transformers
+from transformers import AutoFeatureExtractor
+scipy
+pandas
+datasets
